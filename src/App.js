@@ -11,7 +11,7 @@ class App extends React.Component {
           <Header />
           <Router>
             <Routes>
-              <Route path="/UPweb231117" element={<Home />} />
+              <Route path="/UPweb231117/" element={<Home />} />
             </Routes>
           </Router>
         </header>
