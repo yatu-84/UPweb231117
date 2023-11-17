@@ -1,0 +1,28 @@
+.home{
+    text-align: center;
+    background-image:url(../img/back.jpg);
+    /* background-color: #483438; */
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white
+    
+}
+
+.overview {
+    margin-top: 5%;
+    width: 50%;
+}
+  
+.overview:hover {
+  width: 50.5%;
+}
+  
+.news {
+    width: 23.9%;
+    transform: translate(-55%,-20%);
+}
+  
+.news:hover{
+   width: 24.5%; 
+}

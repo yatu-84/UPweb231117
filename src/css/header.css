@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(252, 7, 7);
+}
+
+.headerContent{
+    background-color: rgb(252, 7, 7);
+}
+
+.headerChar{
+    background-color: rgb(200, 20, 30);
+    padding: 0% 0% 0% 10%;
+    font-size: 500%
+}
