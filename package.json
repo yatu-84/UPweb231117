@@ -2,6 +2,7 @@
   "name": "app-dir",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yatu-84.github.io/web231117/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -15,7 +16,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "clean": "rimraf docs",
+    "move": "xcopy /s /e build docs",
+    "git": "git add . && git commit && git push origin master",
+    "deploy": "npm run clean && npm run build && npm run move && npm run git"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.5"
   }
 }
