@@ -2,7 +2,7 @@
   "name": "app-dir",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yatu-84.github.io/web231117/",
+  "homepage": "https://yatu-84.github.io/UPweb231117/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
