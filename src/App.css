@@ -1,9 +1,25 @@
+.back {
+  background: linear-gradient(to right, rgba(0,0,0,0.2), rgba(256,256,256,0.2),rgba(0,0,0,0.2));
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.backImg{
+  background-image: url(./img/back.jpg);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 .App-header {
-  background: linear-gradient(to right, rgba(00,00,00,0.2), rgba(200,200,200,0), rgba(00,00,00,0.2));
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  color: white;
 }
 
 @keyframes App-logo-spin {
@@ -13,9 +29,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.back{
-  background-size: cover;
-  background-image: url(./img/back.jpg);
 }

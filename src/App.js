@@ -9,17 +9,18 @@ import background from './img/back.jpg'
 class App extends React.Component {
   render() {
     return (
-      // <div className='back' style={{ backgroundImage: `url(${background})` }}>
-      <div className='back'>
-          <header className="App-header">
-            <Header />
-            <Router>
-              <Routes>
-                <Route path="/UPweb231117/" element={<Home />} />
-              </Routes>
-            </Router>
+      <div className='backImg'>
+        <div className='back'>
+          <Header />
+            <header className="App-header">
+              <Router>
+                <Routes>
+                  <Route path="/UPweb231117/" element={<Home />} />
+                </Routes>
+              </Router>
+            </header>
             <Footer />
-          </header>
+          </div>
       </div>
     );
   }
