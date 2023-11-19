@@ -1,57 +1,91 @@
-.home{
-    text-align: center;
-    /* background-image:url(../img/back.jpg); */
-    /* background-color: #483438; */
+@media screen and (max-width: 600px) {
+    .home{
+        text-align: center;
+    }
+    .overview {
+        margin-top: 2%;
+        width: 98%;
+        
+    }
+    .news {
+        width: 68.94%;
+        transform: translate(-1%,-37%);
+    }
+    .bass {
+        width: 28.51%;
+        transform: translate(2%,-34%);
+    }
     
+    .shield{
+        width: 29.19%;
+        transform: translate(-2%,-67%);
+    }
+    .schedule{
+        width: 67.92%;
+        transform: translate(0.5%,-31%);
+    }
+    .member{
+        width: 98%;
+        transform: translate(0%,-88%)
+    }
 }
 
-.overview {
+
+
+@media screen and (min-width: 601px) {
+    .home{
+        text-align: center;
+    }
+
+    .overview {
+        
+        margin-top: 2%;
+        width: 50%;
+        
+    }
     
-    margin-top: 2%;
-    width: 50%;
+    .overview:hover {
+        width: 51%;
+        opacity:0.6;
+    }
     
-}
-  
-.overview:hover {
-    width: 51%;
+    .news {
+        width: 35%;
+        transform: translate(-1%,-37%);
+    }
+    
+    .news:hover{
+    width: 35.5%; 
     opacity:0.6;
-}
-  
-.news {
-    width: 35%;
-    transform: translate(-1%,-37%);
-}
-  
-.news:hover{
-   width: 35.5%; 
-   opacity:0.6;
-}
+    }
 
-.bass {
-    width: 14.5%;
-    transform: translate(2%,-34%);
-}
-.shield{
-    width: 14.89%;
-    transform: translate(-2%,-67%);
-}
+    .bass {
+        width: 14.5%;
+        transform: translate(2%,-34%);
+    }
 
-.schedule{
-    width: 34.69%;
-    transform: translate(0.5%,-31%);
-}
+    .shield{
+        width: 14.89%;
+        transform: translate(-2%,-67%);
+    }
 
-.schedule:hover{
-    width: 35.69%;
-    opacity:0.6;
-}
+    .schedule{
+        width: 34.69%;
+        transform: translate(0.5%,-31%);
+    }
 
-.member{
-    width: 50%;
-    transform: translate(0%,-88%)
-}
+    .schedule:hover{
+        width: 35.69%;
+        opacity:0.6;
+    }
 
-.member:hover{
-    width: 51%;
-    opacity:0.6;
+    .member{
+        width: 50%;
+        transform: translate(0%,-88%)
+    }
+
+    .member:hover{
+        width: 51%;
+        opacity:0.6;
+    }
 }
