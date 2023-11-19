@@ -1,5 +1,5 @@
 .back {
-  background: linear-gradient(to right, rgba(0,0,0,0.2), rgba(256,256,256,0.2),rgba(0,0,0,0.2));
+  background: linear-gradient(to right, rgba(0,0,0,0.1), rgba(256,256,256,0.1),rgba(0,0,0,0.1));
   min-height: 100vh;
   display: flex;
   flex-direction: column;
