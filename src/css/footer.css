@@ -1,0 +1,10 @@
+.footer{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 5% 0% 5% 0%;
+}
+
+.footerChar{
+    font-size: small;
+    text-align: center;
+}

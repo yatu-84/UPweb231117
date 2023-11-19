@@ -1,13 +1,5 @@
-.header{
-    background-color: rgb(252, 7, 7);
-}
-
-.headerContent{
-    background-color: rgb(252, 7, 7);
-}
-
 .headerChar{
     background-color: rgb(200, 20, 80);
-    padding: 0% 0% 0% 10%;
-    font-size: 400%
+    padding: 0% 0% 0% 3%;
+    font-size: 280%
 }
