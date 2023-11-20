@@ -5,10 +5,12 @@ import Toolbar from '@mui/material/Toolbar';
 import { Link } from 'react-router-dom';
 
 const returnTop = () => {
+  <Link to={`/UPweb231117/`}></Link>
   window.scrollTo({
     top: 0,
     behavior: "smooth",
   });
+  
 };
 
 class header extends React.Component {   //page1クラスにReact.Componentを継承する

@@ -1,0 +1,45 @@
+@media screen and (max-width: 960px) {
+    .schedulePage{
+        margin-top: 5%;
+    }
+}
+@media screen and (max-width: 960px) {
+    .sampleSheet{
+        border: solid 5px #000000;
+        margin: auto;
+        width: 90%;
+        margin-top: 3%;
+        background: white;
+    }
+}
+
+@media screen and (min-width: 961px) {
+    .sampleSheet{
+        border: solid 5px #000000;
+        margin: auto;
+        width: 40%;
+        margin-top: 3%;
+        background: white;
+    }
+}
+section{
+    text-align: left;
+    padding: 2% 5% 50% 5%;
+    background-image: url('../img/town.png');
+    background-size: contain;
+    background-position: bottom center;   
+    background-repeat: no-repeat; 
+    color: black;  
+    box-shadow:5% black; 
+    border: solid 20% rgb(0, 0, 0);
+}
+p{
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    background: black;
+    padding: 2%;
+}
+.text{
+    margin-left: 2cap;
+}

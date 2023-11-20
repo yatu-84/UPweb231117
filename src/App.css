@@ -1,5 +1,10 @@
 .back {
-  background: linear-gradient(to right, rgba(0,0,0,0.1), rgba(256,256,256,0.1),rgba(0,0,0,0.1));
+  background: linear-gradient(to right,
+   rgba(0,0,0,0.9),
+   rgba(30,20,80,0.8)40%,
+   rgba(30,20,80,0.8)60%,
+   rgba(0,0,0,0.9));
+  /* background: linear-gradient(to right, rgba(0,0,0,0.1), rgba(256,256,256,0.1),rgba(0,0,0,0.1)); */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -8,7 +13,10 @@
 }
 
 .backImg{
-  background-image: url(./img/back.jpg);
+  background-image: url(./img/183.jpg);
+  background-size: cover;
+  background-position: center center;         
+  object-fit: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -18,7 +26,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
   color: white;
 }
