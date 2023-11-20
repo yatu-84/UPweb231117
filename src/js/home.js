@@ -6,20 +6,39 @@ import bass from '../img/bass.png'
 import shield from '../img/shield.png'
 import schedule from '../img/schedule.png'
 import member from '../img/member.png'
+import { Link } from 'react-router-dom';
 
 class home extends React.Component {   //page1クラスにReact.Componentを継承する
   render() {                          //画面表示の為のrenderメソッドを定義する
       return (
           <div className='home'>
-            <img src={overview} className="overview" alt="overview" />
+
+            <Link to={`/UPweb231117/overview`}>
+                <img src={overview} className="overview" alt="overview" />
+            </Link>
+
             <br/>
-            <img src={news} className="news" alt="news" />
+
+            <Link to={`/UPweb231117/news`}>
+                <img src={news} className="news" alt="news" />
+            </Link>
+
             <img src={bass} className="bass" alt="bass" />
+
             <br/>
+
             <img src={shield} className="shield" alt="shield" />
-            <img src={schedule} className="schedule" alt="schedule" />
+
+            <Link to={`/UPweb231117/schedule`}>
+                <img src={schedule} className="schedule" alt="schedule" />
+            </Link>
+
             <br/>
-            <img src={member} className="member" alt="member" />
+
+            <Link to={`/UPweb231117/member`}>
+                <img src={member} className="member" alt="member" />
+            </Link>
+
           </div>
         );
     }
