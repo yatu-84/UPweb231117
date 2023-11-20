@@ -1,10 +1,14 @@
 .back {
-  background: linear-gradient(to right,
+  /* background: linear-gradient(to right,
    rgba(0,0,0,0.9),
    rgba(30,20,80,0.8)40%,
    rgba(30,20,80,0.8)60%,
-   rgba(0,0,0,0.9));
-  /* background: linear-gradient(to right, rgba(0,0,0,0.1), rgba(256,256,256,0.1),rgba(0,0,0,0.1)); */
+   rgba(0,0,0,0.9)); */
+  background: linear-gradient(to right, 
+  rgba(10,10,10,1), 
+  rgba(10,10,10,0.8)40%,
+  rgba(10,10,10,0.8)60%,
+  rgba(10,10,10,1));
   min-height: 100vh;
   display: flex;
   flex-direction: column;

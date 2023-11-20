@@ -24,13 +24,12 @@
 }
 section{
     text-align: left;
-    padding: 2% 5% 50% 5%;
+    padding: 2% 5% 40% 5%;
     background-image: url('../img/town.png');
     background-size: contain;
     background-position: bottom center;   
     background-repeat: no-repeat; 
     color: black;  
-    box-shadow:5% black; 
     border: solid 20% rgb(0, 0, 0);
 }
 p{
@@ -39,6 +38,8 @@ p{
     color: white;
     background: black;
     padding: 2%;
+    padding-left: 2cap;
+    margin-bottom: 0%;
 }
 .text{
     margin-left: 2cap;
