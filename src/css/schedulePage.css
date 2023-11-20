@@ -1,9 +1,4 @@
 @media screen and (max-width: 960px) {
-    .schedulePage{
-        margin-top: 5%;
-    }
-}
-@media screen and (max-width: 960px) {
     .sampleSheet{
         border: solid 5px #000000;
         margin: auto;
@@ -32,7 +27,7 @@ section{
     color: black;  
     border: solid 20% rgb(0, 0, 0);
 }
-p{
+.title{
     font-size: large;
     font-weight: bold;
     color: white;

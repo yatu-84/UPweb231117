@@ -8,7 +8,7 @@ class schedulePage extends React.Component {
 
                 <div className='sampleSheet'>
                     <section>
-                        <p>superlive</p>
+                    <p className='title'>super live</p>
                         <div className='text'>
                             <br/>
                             date:2012/12/12
@@ -32,7 +32,327 @@ class schedulePage extends React.Component {
 
                 <div className='sampleSheet'>
                     <section>
-                        <p>content schedule2</p>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
+                        <div className='text'>
+                            <br/>
+                            mazilove
+                            <br/>
+                            kick
+                            <br/>
+                            hoge
+                            <br/>
+                            hogehoge
+                            <br/>
+                            super
+                            <br/>
+                            final
+                            <br/>
+                            123456789012345678901234567890
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                            <br/>
+                            qwertyuiopppp
+                        </div>
+                    </section>
+                </div>
+
+                <div className='sampleSheet'>
+                    <section>
+                    <p className='title'>content schedule2</p>
                         <div className='text'>
                             <br/>
                             mazilove
