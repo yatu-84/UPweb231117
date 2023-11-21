@@ -1,11 +1,13 @@
 .footer{
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: #EEEEEE;
+    /* background-color: rgba(0, 0, 0, 0.7); */
     padding: 5% 0% 5% 0%;
     margin-top: 5%;
 }
 
 .footerChar{
+    color: #000;
     font-size: small;
     text-align: center;
 }

@@ -19,7 +19,7 @@ class newsPage extends React.Component {
                             <br/>
                             武藤さんありがとうございます。
                             <br/><br/>
-                            2023 12/??
+                            <div className='date'>2023 12/??</div>
                         </div>
                     </section>
                 </div>

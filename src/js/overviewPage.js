@@ -11,14 +11,16 @@ class overviewPage extends React.Component {
                 <img src={photo1} className="photo1" alt="photo by muto" />
                 <br/>
                 <p className='bandName'>ULTRA POWERS</p>
-                <a className='overviewText'>hegehoeghoeg</a>
-                <br/>
-                <a className='overviewText'>heghoeghohohhoeghoeh</a>
-                <br/>
-                <a className='overviewText'>hogehogoegho</a>
-                <br/>
-                <a className='overviewText'>hogehogehgeeghoeg</a>
-                <br/>
+                <div className='overviewText'>
+                    hegehoeghoeg
+                    <br/>
+                    hehegho eghohohh oeg hoehe gho eghoho hho egho egho egh ohoh hoe ghoeh
+                    <br/>
+                    ああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
+                    <br/>
+                    hogehogehgeeghoeg
+                    <br/>
+                </div>
                 <div className='overviewLinks'>
                     <a>Email : <a className='overviewLink' href='https://twitter.com/home'>???</a></a><br/>
                     <a>twitter/X : <a className='overviewLink' href='https://twitter.com/home'>???</a></a><br/>
