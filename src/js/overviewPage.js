@@ -12,13 +12,13 @@ class overviewPage extends React.Component {
                 <br/>
                 <p className='bandName'>ULTRA POWERS</p>
                 <div className='overviewText'>
-                    hegehoeghoeg
+                    日本のポップスバンド
                     <br/>
-                    hehegho eghohohh oeg hoehe gho eghoho hho egho egho egh ohoh hoe ghoeh
+                    いつでも全ての力をかけて演奏をし、
                     <br/>
-                    ああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
-                    <br/>
-                    hogehogehgeeghoeg
+                    その力は全てを救うほど強大であると言われている。
+                    <br/><br/>
+                    それが「ULTRA POWER」
                     <br/>
                 </div>
                 <div className='overviewLinks'>
