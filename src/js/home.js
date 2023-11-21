@@ -14,7 +14,7 @@ class home extends React.Component {   //page1クラスにReact.Componentを継�
           <div className='home'>
 
             <Link to={`/UPweb231117/overview`}>
-                <img src={overview} className="overview" alt="overview" />
+                <img src={overview} className="overview" alt="about photo by muto" />
             </Link>
 
             <br/>

@@ -8,7 +8,7 @@ class newsPage extends React.Component {
 
                 <div className='sampleSheet'>
                     <section>
-                        <p className='title'>ホームページ開設！</p>
+                        <p className='title'>ホームページ開設</p>
                         <div className='text'>
                             <br/>
                             ホームページを開設しました。
