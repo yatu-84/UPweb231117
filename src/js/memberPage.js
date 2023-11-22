@@ -22,7 +22,7 @@ class memberPage extends React.Component {
                     </div>
                     <div className='memberLinks'>
                         <a>Email : <a className='memberLink' href='mailto:guytarist9kv8@gmail.com'>guytarist9kv8@gmail.com</a></a><br/>
-                        <a>twitter/X : <a className='memberLink' href='https://twitter.com/guytaris'>https://twitter.com/guytaris</a></a><br/>
+                        <a>twitter/X : <a className='memberLink' href='https://twitter.com/guytarist'>https://twitter.com/guytarist</a></a><br/>
                         <a>instagram : <a className='memberLink' href='https://www.instagram.com/guytarist_'>https://www.instagram.com/guytarist_</a></a><br/>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ class memberPage extends React.Component {
                     <div className='memberLinks'>
                         {/* <a>Email : <a className='memberLink' href='https://twitter.com/home'>???</a></a><br/> */}
                         {/* <a>twitter/X : <a className='memberLink' href='https://twitter.com/home'>???</a></a><br/> */}
-                        <a>instagram : <a className='memberLink' href='ttps://www.instagram.com/issei_isentertainment'>ttps://www.instagram.com/issei_isentertainment</a></a><br/>
+                        <a>instagram : <a className='memberLink' href='https://www.instagram.com/issei_isentertainment'>https://www.instagram.com/issei_isentertainment</a></a><br/>
                     </div>
                 </div>
 
