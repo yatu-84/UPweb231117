@@ -19,12 +19,12 @@ class newsPage extends React.Component {
                             <br/>
                             武藤さんありがとうございます。
                             <br/><br/>
-                            <div className='date'>2023 12/??</div>
+                            <div className='date'>2023 11/22</div>
                         </div>
                     </section>
                 </div>
 
-                <div className='sampleSheet'>
+                {/* <div className='sampleSheet'>
                     <section>
                         <p className='title'>news2</p>
                         <div className='text'>
@@ -54,7 +54,7 @@ class newsPage extends React.Component {
                             qwertyuiopppp
                         </div>
                     </section>
-                </div>
+                </div> */}
 
             </div>
         );
