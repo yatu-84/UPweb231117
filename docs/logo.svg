@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<svg 
+    width="82.29" 
+    height="82.29" 
+    viewBox="0.00 0.00 400.00 400.00" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+
+    <style>
+    @media (prefers-color-scheme: dark) {
+      .background {
+          fill: #111111;
+      }
+      .text path{
+        fill: #EEEEEE;
+      }
+    }
+  </style>
+
+    <g class="text">
+        <path 
+            d="
+            M204.12,204.19 
+            L132.71,242.17 
+            L121.68,100.37 
+            L101.98,40.66 
+            L35.67,249.02 
+            L205.04,357.27 
+            L370.63,249.74 
+            L315.83,75.57 
+            L241.75,42.49 
+            L242.00,100.52 
+            L290.13,96.18 
+            L272.17,242.67 
+            L204.12,204.19 
+            Z" 
+            fill="true" 
+            stroke-width="1.00" 
+            stroke-opacity="1.00" 
+            stroke-linejoin="round"
+        />
+    </g>
+
+</svg>

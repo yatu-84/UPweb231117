@@ -11,6 +11,24 @@
         /* border: solid 5px #000000; */
         /* box-shadow: 10px 5px 5px rgba(0, 0, 0,0.3); */
     }
+
+    .overviewLinks{
+        width: 50%;
+        margin: 20% 0% 5% 5%;
+        font-size: 80%;
+        padding: 2%;
+        text-align: left;
+    }
+    
+    .overviewLink:link{
+        color: rgb(153, 106, 255);
+        margin: 1%;
+    }
+    
+    .overviewLink:visited{
+        color: rgb(161, 211, 255);
+        margin: 1%;
+    }
 }
 
 @media screen and (min-width: 961px) {
@@ -25,6 +43,24 @@
         text-align: left;
         /* border: solid 5px #000000; */
         box-shadow: 10px 5px 5px rgba(0, 0, 0,0.3);
+    }
+
+    .overviewLinks{
+        width: 50%;
+        margin: 20% 0 5% auto;
+        font-size: 80%;
+        padding: 2%;
+        text-align: left;
+    }
+    
+    .overviewLink:link{
+        color: rgb(153, 106, 255);
+        margin: 1%;
+    }
+    
+    .overviewLink:visited{
+        color: rgb(161, 211, 255);
+        margin: 1%;
     }
 }
 
@@ -50,18 +86,19 @@
 
 }
 
-.overviewLinks{
-    width: 30%;
-    margin: 20% 0 5% auto;
-    font-size: 80%;
-    padding: 2%;
-    text-align: left;
+
+
+
+.overviewVideos{
+    width: 50%;
+    line-height: 3cap;
+    margin: 10% auto 0% auto;
+    text-align: center;
 }
 
-.overviewLink:link{
-    color: rgb(153, 106, 255);
-}
-
-.overviewLink:visited{
-    color: rgb(161, 211, 255);
+.overviewVideo{
+    font-weight: bold;
+    width: 100%;
+    color: black;
+    background-color: white;
 }

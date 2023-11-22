@@ -21,11 +21,19 @@ class overviewPage extends React.Component {
                     それが「ULTRA POWER」
                     <br/>
                 </div>
+                <div className='overviewVideos'>
+                    <div className='overviewVideo'>
+                        <Link className='overviewVideo' to={`/UPweb231117/member`}>MEMBERS</Link>
+                    </div>
+                    <br/>
+                    <div className='overviewVideo'>
+                        <a className='overviewVideo' href='https://youtu.be/4kbpeFYCS6c?si=f7n9wkEoPT61UjAd'>ライブ動画</a><br/>
+                    </div>
+                </div>
                 <div className='overviewLinks'>
-                    <a>Email : <a className='overviewLink' href='https://twitter.com/home'>???</a></a><br/>
-                    <a>twitter/X : <a className='overviewLink' href='https://twitter.com/home'>???</a></a><br/>
-                    <a>instagram : <a className='overviewLink' href='https://twitter.com/home'>???</a></a><br/>
-                    <Link className='overviewLink' to={`/UPweb231117/member`}>members</Link>
+                    <a>Email : <a className='overviewLink' href='mailto:ultrapowers0909@gmail.com'>ultrapowers0909@gmail.com</a></a><br/>
+                    <a>twitter/X : <a className='overviewLink' href='https://twitter.com/UltraPowers0909'>https://twitter.com/UltraPowers0909</a></a><br/>
+                    {/* <a>instagram : <a className='overviewLink' href='https://twitter.com/home'>???</a></a><br/> */}
                 </div>
             </div>
         );

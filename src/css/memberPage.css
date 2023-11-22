@@ -11,6 +11,22 @@
         /* border: solid 5px #000000; */
         /* box-shadow: 10px 5px 5px rgba(0, 0, 0,0.3); */
     }
+
+    .memberLinks{
+        width: 50%;
+        margin: 20% 0 5% 5%;
+        font-size: 80%;
+        padding: 2%;
+        text-align: left;
+    }
+    
+    .memberLink:link{
+        color: rgb(153, 106, 255);
+    }
+    
+    .memberLink:visited{
+        color: rgb(161, 211, 255);
+    }
 }
 
 @media screen and (min-width: 961px) {
@@ -25,6 +41,22 @@
         text-align: left;
         /* border: solid 5px #000000; */
         box-shadow: 10px 5px 5px rgba(0, 0, 0,0.3);
+    }
+
+    .memberLinks{
+        width: 50%;
+        margin: 20% 0 5% auto;
+        font-size: 80%;
+        padding: 2%;
+        text-align: left;
+    }
+    
+    .memberLink:link{
+        color: rgb(153, 106, 255);
+    }
+    
+    .memberLink:visited{
+        color: rgb(161, 211, 255);
     }
 }
 
@@ -50,18 +82,3 @@
 
 }
 
-.memberLinks{
-    width: 30%;
-    margin: 20% 0 5% auto;
-    font-size: 80%;
-    padding: 2%;
-    text-align: left;
-}
-
-.memberLink:link{
-    color: rgb(153, 106, 255);
-}
-
-.memberLink:visited{
-    color: rgb(161, 211, 255);
-}
