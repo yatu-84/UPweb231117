@@ -33,7 +33,7 @@ class overviewPage extends React.Component {
                 <div className='overviewLinks'>
                     <a>Email : <a className='overviewLink' href='mailto:ultrapowers0909@gmail.com'>ultrapowers0909@gmail.com</a></a><br/>
                     <a>twitter/X : <a className='overviewLink' href='https://twitter.com/UltraPowers0909'>https://twitter.com/UltraPowers0909</a></a><br/>
-                    {/* <a>instagram : <a className='overviewLink' href='https://twitter.com/home'>???</a></a><br/> */}
+                    <a>instagram : <a className='overviewLink' href='https://www.instagram.com/ultrapowers0909/'>https://www.instagram.com/ultrapowers0909/</a></a><br/>
                 </div>
             </div>
         );
