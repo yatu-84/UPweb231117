@@ -55,7 +55,7 @@ class memberPage extends React.Component {
                         <br/>
                         1万年に一度の存在であり、
                         <br/>
-                        彼の踏むバスドラムは宇宙誕生の音と同じといわれている。
+                        彼の踏むバスドラムは宇宙誕生の音と同じだといわれている。
                         <br/>
                     </div>
                     <div className='memberLinks'>

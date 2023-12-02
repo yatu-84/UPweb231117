@@ -8,24 +8,15 @@ class schedulePage extends React.Component {
 
                 <div className='sampleSheet'>
                     <section>
-                    <p className='title'>ライブ予定は未だありません</p>
+                    <p className='title'>2024/2/22 BABEL - The Rock Tower</p>
                         <div className='text'>
-                            {/* <br/>
-                            date:2012/12/12
                             <br/>
-                            place:tokyo
+                            2024年2月22日(木)
                             <br/>
-                            moremoremore
+                            会場：<a href='https://www.babel-rocktower.net/'>BABEL - The Rock Tower</a>
+                            {/* <br/><br/>
+                            <a href='https://twitcasting.tv/tachikawababel/shop/0'>配信チケット購入はこちらから</a> */}
                             <br/>
-                            hogehoge
-                            <br/>
-                            super
-                            <br/>
-                            final
-                            <br/>
-                            123456789012345678901234567890
-                            <br/>
-                            qwertyuiopppp */}
                         </div>
                     </section>
                 </div>
